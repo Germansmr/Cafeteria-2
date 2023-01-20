@@ -1,0 +1,74 @@
+h1.titulo{
+    color: darkred;
+    text-align: center
+
+}
+
+p.carta{
+    font-size: 25px;
+    color: darkred;
+    position: relative;
+    top: 200px;
+    right: -100px;
+}
+
+img.carta{
+    position: relative;
+    top: -30px;
+    right: -200px;
+}
+
+p.cafe{
+    font-size: 25px;
+    color: darkred;
+    position: relative;
+    top: 130px;
+    right: -950px;
+    z-index: 1;
+}
+
+img.cafe{
+    position: relative;
+    top: -150px;
+    right: -920px;
+}
+
+p.contacto{
+    font-size: 25px;
+    color: darkred;
+    position: relative;
+    top: 50px;
+    right: -1570px;
+}
+
+img.contacto{
+    position: relative;
+    top: -130px;
+    right: -1700px;
+}
+
+hr.azul{
+    color: blue;
+}
+
+h2.titulo{
+    text-align: center;
+    color: darkred;
+}
+
+p.texto{
+    color: red;
+}
+
+spam.rojo{
+    color: red;
+}
+
+h3.texto{
+    color: red;
+}
+
+ul.a{
+    list-style-type: circle;
+}
+
